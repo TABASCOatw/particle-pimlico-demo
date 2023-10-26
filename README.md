@@ -16,7 +16,7 @@ Particle Auth, a component of Particle Network's Wallet-as-a-Service, enables se
 
 ##
 
-👉 Try the demo: https://web-demo.particle.network/connectKit
+👉 Try the demo: https://web-demo.particle.network
 
 👉 Learn more about Particle Network: https://particle.network
 
